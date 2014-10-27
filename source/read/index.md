@@ -1,3 +1,16 @@
-layout: categories
-title: categories
+title: 我的书单
 ---
+#2014.10
+##专业书
+- IDL程序设计-数据可视化与ENVI二次开发
+- 利用python进行数据分析
+- 定量遥感-理念与算法
+
+## 英语
+- Toefl作文
+- Toefl单词红宝书
+
+
+## 杂书
+- Vim实用技巧
+- 花千骨
