@@ -1,7 +1,16 @@
 title : numpy.trapz简介
+tags: [python,numpy,数学]
 ---
 #numpy.trapz
 来自scipy.org
+>   http://cfa.everpcpc.com/scipy-doc/scipy_intro.html
+>   http://docs.scipy.org/doc/numpy/reference/generated/numpy.trapz.html   
+
+
+
+##简介
+数值积分是对定积分的数值求解，例如可以利用数值积分计算某个形状的面积。
+numpy中trapz方法可以求出积分
 ##源代码source code
 	def trapz(y, x=None, dx=1.0, axis=-1):
 	"""
